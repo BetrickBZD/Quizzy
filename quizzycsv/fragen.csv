@@ -1,0 +1,13 @@
+Was ist ein Stakeholder?,Nur der EndnutzerNur,Hardware-Schnittstelle,Interessensgruppe am System,Projektleiter,3
+Was bedeutet das 'S' in MoSCoW?,Standard,Should have,System,Spezifikation,2
+Was ist eine Qualitätsanforderung?,Datenmodell,Benutzerschnittstelle,Performanz,Buch-Ausleihe,3
+Was bündelt ein Use Case?,Nur Code-Zeilen,Mögliche Szenarien,Hardware-Listen,Kostenpläne,2
+Was ist Performanz?,Funktionale Anforderung,Datenmodell,Qualitätsanforderung,Hardware-Teil,3
+Was ist 'Won't have' bei MoSCoW?,Wichtige Anforderung,Nice-to-have,Vorerst nicht realisiert,Muss-Anforderung,3
+was ist funktionale Anforderung?,Zuverlässigkeit,Systemverhalten/Funktionen,Wartbarkeit,Sicherheit,2
+Ziel der Validierung von Anforderungen?,Prüfung ob der Code effizient ist,Prüfung ob das richtige System entwickelt wird,Festlegung der Programmiersprache,Berechnung der Projektkosten,2
+Wofür steht die Abkürzung MVC?,Model-View-Controller,Main-View-Class,Module-Verify-Code,Mode-Value-Check,1
+Welches Tag beschreibt einen Rückgabewert?,@param,@author,@return,@throws,3
+Was ist das Ziel von 'Clean Code'?,Schnelle Ausführung,Geringer Speicherverbrauch,Lesbarkeit und Wartbarkeit,Komplexer Algorithmus,3
+Was prüft das White-Box-Testing?,Die Benutzeroberfläche,Die innere Struktur des Codes,Nur die Anforderungen,Die Internetverbindung,2
+Was bedeutet das 'M' in MoSCoW?,Man,Margaritha,Must have,Mit entwurf,3

@@ -16,7 +16,8 @@ Willkommen bei **Quizzy**! Eine interaktive und unterhaltsame Quiz-App, mit der 
 * **Backend:** [z.B. Node.js, Python/Django, Firebase - falls vorhanden]
 * **Datenbank:** [z.B. MongoDB, PostgreSQL - falls vorhanden]
 
-## 💻 Installation & Lokales Setup
+## 💻 Installation & Lokales Setup 
+
 
 Möchtest du Quizzy lokal auf deinem Rechner ausführen? Folge diesen Schritten:
 

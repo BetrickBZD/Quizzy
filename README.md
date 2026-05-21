@@ -12,9 +12,9 @@ Willkommen bei **Quizzy**! Eine interaktive und unterhaltsame Quiz-App, mit der 
 
 ## 🛠️ Tech-Stack
 
-* **Frontend:** [z.B. React, Vue.js, HTML/CSS/Vanilla JS]
-* **Backend:** [z.B. Node.js, Python/Django, Firebase - falls vorhanden]
-* **Datenbank:** [z.B. MongoDB, PostgreSQL - falls vorhanden]
+* **Frontend:** [z.B.Java]
+* **Backend:** [z.B. Java]
+* **Datenbank:** [z.B. Csv]
 
 ## 💻 Installation & Lokales Setup 
 
